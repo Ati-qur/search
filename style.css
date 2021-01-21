@@ -1,0 +1,21 @@
+.co
+{
+  text-align: center;
+  margin-top: 200px;
+}
+body
+{
+    background-color: rgb(14, 70, 53);
+    background-image: url(https://i.pinimg.com/originals/32/3f/d8/323fd8b794e9c1ab4f52de7e6b018852.jpg);
+}
+.ld
+{
+    padding: 15px;
+    
+}
+.ll
+{
+    padding: 15px;
+    
+    background-color: rgb(0, 0, 0);
+}
